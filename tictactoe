@@ -1,5 +1,7 @@
-class PlayingBoard
 import java.util.Scanner;
+
+
+class PlayingBoard
 
  public class PlayingBoard {
 
